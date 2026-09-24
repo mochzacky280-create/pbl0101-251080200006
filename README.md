@@ -5,4 +5,4 @@
 * **Nama:** MOCH SULTAN ZAKY
 * **Framework Pilihan:** BlueBream (Python/Flask)
 
-## Tampilan Aplikasi (Screenshot)<img width="423" height="191" alt="Screen Shot 2026-09-24 at 09 24 45" src="https://github.com/user-attachments/assets/fe4cf357-4760-4f12-b4e1-f06a92c8c4b0" />
+<img width="423" height="191" alt="Screen Shot 2026-09-24 at 09 24 45" src="https://github.com/user-attachments/assets/fe4cf357-4760-4f12-b4e1-f06a92c8c4b0" />
